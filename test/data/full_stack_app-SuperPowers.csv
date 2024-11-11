@@ -1,0 +1,10 @@
+ID;name;description;superHero_ID
+cd2dda04-cadb-43a3-b9c2-6c6e4729b251;Flight;Ability to fly in the air;cd2dda04-cadb-43a3-b9c2-6c6e4729b251
+7214863b-704e-4f52-bd53-c75a24d01507;Super Strength;Incredible physical strength;cd2dda04-cadb-43a3-b9c2-6c6e4729b251
+df212099-c2b8-44ec-9d6d-1738aec4ec77;Heat Vision;Ability to emit intense heat beams from eyes;cd2dda04-cadb-43a3-b9c2-6c6e4729b251
+49a60d7d-568f-41b3-9303-3768e833d371;Utility Belt;Contains various gadgets and weapons;7214863b-704e-4f52-bd53-c75a24d01507
+44a0cb97-559d-403a-a56e-418f7be17b18;Martial Arts;Master of various fighting styles;7214863b-704e-4f52-bd53-c75a24d01507
+e6dcf6ea-05a2-4a80-a8e2-dbb1ff275553;Lasso of Truth;Forces anyone ensnared to tell the truth;df212099-c2b8-44ec-9d6d-1738aec4ec77
+0f4d80d9-ba83-4013-bcab-ad40de306b3f;Spider-Sense;Enhanced sense that alerts to danger;49a60d7d-568f-41b3-9303-3768e833d371
+45d66abe-7427-4075-94dd-d69dc559a878;Web-Slinging;Ability to swing from buildings using webs;49a60d7d-568f-41b3-9303-3768e833d371
+79f62a33-fe79-4f28-912f-86819e498ee9;Repulsor Beams;Powerful energy blasts from palms;44a0cb97-559d-403a-a56e-418f7be17b18

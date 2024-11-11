@@ -1,0 +1,9 @@
+ID;name;alias;gender;birthdate;height;weight;secretIdentity_ID
+cd2dda04-cadb-43a3-b9c2-6c6e4729b251;Superman;Superman;Male;1980-06-27;185.50;85.00;cd2dda04-cadb-43a3-b9c2-6c6e4729b251
+7214863b-704e-4f52-bd53-c75a24d01507;Batman;Batman;Male;1975-05-03;190.00;90.50;7214863b-704e-4f52-bd53-c75a24d01507
+df212099-c2b8-44ec-9d6d-1738aec4ec77;Wonder Woman;Wonder Woman;Female;1985-11-12;175.00;70.00;df212099-c2b8-44ec-9d6d-1738aec4ec77
+49a60d7d-568f-41b3-9303-3768e833d371;Spider-Man;Spider-Man;Male;1992-02-15;170.00;75.00;49a60d7d-568f-41b3-9303-3768e833d371
+44a0cb97-559d-403a-a56e-418f7be17b18;Iron Man;Iron Man;Male;1970-07-28;180.00;80.00;44a0cb97-559d-403a-a56e-418f7be17b18
+a1b2c3d4-e5f6-7890-abcd-ef1234567890;Flash;Flash;Male;1990-03-19;180.00;75.00;cd2dda04-cadb-43a3-b9c2-6c6e4729b251
+b2c3d4e5-f6a7-8901-bcde-1234567890ab;Aquaman;Aquaman;Male;1982-01-29;185.00;95.00;7214863b-704e-4f52-bd53-c75a24d01507
+c3d4e5f6-a7b8-9012-cdef-234567890abc;Green Lantern;Green Lantern;Male;1984-07-20;183.00;80.00;49a60d7d-568f-41b3-9303-3768e833d371
